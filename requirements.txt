@@ -1,0 +1,8 @@
+# Needs Python 3.11: bpy 5.1+ only ships wheels for Python 3.13, so pin below 5.1.
+bpy>=5.0,<5.1
+anthropic
+python-dotenv
+pillow
+fastapi
+uvicorn[standard]
+python-multipart
