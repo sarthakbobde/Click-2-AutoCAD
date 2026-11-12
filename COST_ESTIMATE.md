@@ -1,6 +1,6 @@
 # Click2CAD cost per submission: Claude Opus 5 vs Gemini 3.1 Pro
 
-Estimated API cost of generating one 3D model (one submission), based on the six demo jobs in V3.
+Estimated API cost of generating one 3D model (one submission), based on the six demo jobs.
 
 ## Prices used (standard paid tier, per 1 million tokens)
 
